@@ -1,0 +1,6 @@
+{
+  "name": "የኔ ሱቅ",
+  "description": "Mobile inventory data-entry form with real-time total price calculation, Google Sheets integration, and offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
